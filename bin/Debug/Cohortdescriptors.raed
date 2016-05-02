@@ -1,0 +1,63 @@
+Student ID<KEY|VALUE>Student ID
+Cohort<KEY|VALUE>Cohort
+Status 2041FA<KEY|VALUE>Status 2041FA
+State<KEY|VALUE>State
+Country<KEY|VALUE>Country
+Postal Code<KEY|VALUE>Postal Code
+Program<KEY|VALUE>Program
+Division<KEY|VALUE>Division
+Gender<KEY|VALUE>Gender
+Admit Status<KEY|VALUE>Admit Status
+Ethnicity<KEY|VALUE>Ethnicity
+Race<KEY|VALUE>Race
+Student of Color<KEY|VALUE>Student of Color
+FAFSA<KEY|VALUE>FAFSA
+Pell<KEY|VALUE>Pell
+First Gen<KEY|VALUE>First Gen
+Withdraw Reason<KEY|VALUE>Withdraw Reason
+Withdrawal Start<KEY|VALUE>Withdrawal Start
+Withdrawal End<KEY|VALUE>Withdrawal End
+Withdrawal Term<KEY|VALUE>Withdrawal Term
+Refugee<KEY|VALUE>Refugee
+Single Parent Scholarship<KEY|VALUE>Single Parent Scholarship
+Degree<KEY|VALUE>Degree
+Degree Date<KEY|VALUE>Degree Date
+Visa Type<KEY|VALUE>Visa Type
+Deceased<KEY|VALUE>Deceased
+First Spring<KEY|VALUE>First Spring
+Second Fall<KEY|VALUE>Second Fall
+Second Spring<KEY|VALUE>Second Spring
+JR Fall<KEY|VALUE>JR Fall
+JR Spring<KEY|VALUE>JR Spring
+SR Fall<KEY|VALUE>SR Fall
+SR Spring<KEY|VALUE>SR Spring
+4YR Grad<KEY|VALUE>4YR Grad
+4YRGrad+1<KEY|VALUE>4YRGrad+1
+5YR Grad<KEY|VALUE>5YR Grad
+Housing First Fall<KEY|VALUE>Housing First Fall
+Housing First Spring<KEY|VALUE>Housing First Spring
+Housing Second Fall<KEY|VALUE>Housing Second Fall
+Housing Second Spring<KEY|VALUE>Housing Second Spring
+Housing Third Fall<KEY|VALUE>Housing Third Fall
+Housing Third Spring<KEY|VALUE>Housing Third Spring
+Housing Fourth Fall<KEY|VALUE>Housing Fourth Fall
+Housing Fourth Spring<KEY|VALUE>Housing Fourth Spring
+Housing Fifth Fall<KEY|VALUE>Housing Fifth Fall
+Housing Fifth Spring<KEY|VALUE>Housing Fifth Spring
+Housing Sixth Fall<KEY|VALUE>Housing Sixth Fall
+Transfer to<KEY|VALUE>Transfer to
+Graduated From<KEY|VALUE>Graduated From
+Leaver Status<KEY|VALUE>Leaver Status
+SATV<KEY|VALUE>SATV
+SATM<KEY|VALUE>SATM
+SATW<KEY|VALUE>SATW
+SATC<KEY|VALUE>SATC
+SAT/ACT EQUIVALENT<KEY|VALUE>SAT/ACT EQUIVALENT
+ACTC<KEY|VALUE>ACTC
+ACTM<KEY|VALUE>ACTM
+ACTR<KEY|VALUE>ACTR
+ACTS<KEY|VALUE>ACTS
+ACTV<KEY|VALUE>ACTV
+HS GPA<KEY|VALUE>HS GPA
+RANK<KEY|VALUE>RANK
+IN CLASS<KEY|VALUE>IN CLASS
